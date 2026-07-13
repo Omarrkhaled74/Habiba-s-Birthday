@@ -9,8 +9,7 @@ const final = document.getElementById("final");
 
 const typingText = document.getElementById("typingText");
 
-const message = `Before this special day ends,
-I just want you to know that you deserve every beautiful thing life has to offer.
+const message = `I just want you to know that you deserve every beautiful thing life has to offer.
 
 May your smile never fade,
 may your heart always be full of peace,
